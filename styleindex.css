@@ -1,5 +1,8 @@
+body{
+  margin: 0;
+}
 .sidebar-container {
-    position: fixed;
+    position: sticky;
     width: 220px;
     height: 100%;
     left: 0;
@@ -83,4 +86,10 @@
   }
   .parrafo {
       color: cornsilk;
+      margin: 5px;
+      padding: 5px;
   }
+  
+  
+
+  
